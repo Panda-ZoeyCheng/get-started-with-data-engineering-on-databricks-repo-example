@@ -11,4 +11,8 @@ display(sdf)
 
 # COMMAND ----------
 
+print("Test this repo")
+
+# COMMAND ----------
+
 
