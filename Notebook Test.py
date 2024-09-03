@@ -4,4 +4,8 @@
 
 # COMMAND ----------
 
+print("Test this notebook in new workspace")
+
+# COMMAND ----------
+
 
